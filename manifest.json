@@ -1,0 +1,12 @@
+{
+  "name": "Currency Converter",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Convert US dollars to other currencies.",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "host_permissions": [
+    "https://api.frankfurter.dev/*"
+  ]
+}
